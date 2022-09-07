@@ -1,0 +1,24 @@
+{
+  "cSpell.words": ["Jumia"],
+  "java.project.referencedLibraries": {
+    "include": ["lib/**/*.jar", "bytes-1.1.0.jar", "Lib/**/*.jar"],
+    "exclude": [
+      "bytes-1.5.0.jar",
+      "hkdf-1.0.1.jar",
+      "Lib/annotations-15.0.jar",
+      "Lib/auto-value-annotations-1.6.3.jar",
+      "Lib/bytes-1.5.0.jar",
+      "lib/hkdf-1.0.1.jar",
+      "lib/masked-id-util.jar",
+      "lib/trimplement-wallet-server-common.jar",
+      "lib/utils-lrucache-1.0.1.jar",
+      "lib/id-mask-0.5.0.jar",
+      "lib/annotations-15.0.jar",
+      "lib/auto-value-annotations-1.6.3.jar",
+      "lib/bytes-1.5.0.jar",
+      "Lib/hkdf-1.0.1.jar",
+      "Lib/id-mask-0.5.0.jar",
+      "Lib/utils-lrucache-1.0.1.jar"
+    ]
+  }
+}
