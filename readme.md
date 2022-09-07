@@ -1,0 +1,1 @@
+Ensure to add triplement-wallet-server-coomon.jar to classpath
